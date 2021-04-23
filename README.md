@@ -11,8 +11,9 @@ Script which formats data that is uploaded to https://www.cdc.gov/coronavirus/20
 ##Data Update Instructions
 
 1. Open Excel file
-    a. Ensure awardee_code column doesn't have extra characters
-    b. Ensure that "Federal Entities" column isn't duplicated (change second column name to "Federal Entities Administrations")
+
+a. Ensure awardee_code column doesn't have extra characters  
+b. Ensure that "Federal Entities" column isn't duplicated (change second column name to "Federal Entities Administrations")
 
 2. Save Excel file as UTF-8 encoded CSV named "data.csv" at root
 
